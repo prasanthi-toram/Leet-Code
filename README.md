@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prasanthi-toram/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/prasanthi-toram/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasanthi-toram/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prasanthi-toram/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prasanthi-toram/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/prasanthi-toram/Leet-Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prasanthi-toram/Leet-Code/tree/master/0213-house-robber-ii) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prasanthi-toram/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/prasanthi-toram/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
