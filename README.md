@@ -111,14 +111,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/prasanthi-toram/Leet-Code/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prasanthi-toram/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prasanthi-toram/Leet-Code/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prasanthi-toram/Leet-Code/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prasanthi-toram/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prasanthi-toram/Leet-Code/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/prasanthi-toram/Leet-Code/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prasanthi-toram/Leet-Code/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prasanthi-toram/Leet-Code/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/prasanthi-toram/Leet-Code/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
