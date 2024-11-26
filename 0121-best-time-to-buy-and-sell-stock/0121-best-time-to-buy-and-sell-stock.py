@@ -5,6 +5,7 @@ class Solution:
         for i in range(len(prices)):
             if prices[i]<buy_price:
                 buy_price=prices[i]
-            else:
-                profit=max(profit,prices[i]-buy_price)
+            # else:
+            profit=max(profit,prices[i]-buy_price)
         return profit
+
