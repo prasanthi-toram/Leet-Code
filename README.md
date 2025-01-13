@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/prasanthi-toram/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/prasanthi-toram/Leet-Code/tree/master/0416-partition-equal-subset-sum) |
 | [1063-best-sightseeing-pair](https://github.com/prasanthi-toram/Leet-Code/tree/master/1063-best-sightseeing-pair) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/prasanthi-toram/Leet-Code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prasanthi-toram/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prasanthi-toram/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/prasanthi-toram/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/prasanthi-toram/Leet-Code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/prasanthi-toram/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/prasanthi-toram/Leet-Code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Quickselect
 |  |
 | ------- |
