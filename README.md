@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/prasanthi-toram/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prasanthi-toram/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/prasanthi-toram/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0347-top-k-frequent-elements](https://github.com/prasanthi-toram/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/prasanthi-toram/Leet-Code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prasanthi-toram/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/prasanthi-toram/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/prasanthi-toram/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0091-decode-ways](https://github.com/prasanthi-toram/Leet-Code/tree/master/0091-decode-ways) |
 ## Sliding Window
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prasanthi-toram/Leet-Code/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/prasanthi-toram/Leet-Code/tree/master/0012-integer-to-roman) |
 ## Tree
 |  |
 | ------- |
