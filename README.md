@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prasanthi-toram/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prasanthi-toram/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/prasanthi-toram/Leet-Code/tree/master/0039-combination-sum) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prasanthi-toram/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prasanthi-toram/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/prasanthi-toram/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasanthi-toram/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prasanthi-toram/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prasanthi-toram/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prasanthi-toram/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prasanthi-toram/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasanthi-toram/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
